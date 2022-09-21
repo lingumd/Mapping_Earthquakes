@@ -49,7 +49,7 @@ let line = [
 L.polyline(line, {
   color: "yellow"
 }).addTo(map);
-=======
+
 // Get data from cities.js
 let cityData = cities;
 
