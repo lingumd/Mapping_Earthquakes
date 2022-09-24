@@ -15,10 +15,10 @@ body,
   border-radius: 5px;
 }
 
-.legend {
+.legend i {
   float: left;
-  width: 28px;
-  height: 108px;
+  width: 18px;
+  height: 18px;
   margin-right: 8px;
   opacity: 0.7;
 }
